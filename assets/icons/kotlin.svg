@@ -1,0 +1,10 @@
+<svg aria-hidden="true" viewbox="0 0 128 128" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<lineargradient gradienttransform="translate(15.534 -96.774) scale(.1939)" gradientunits="userSpaceOnUse" id="kt-a" x1="500.003" x2="-.097" y1="579.106" y2="1079.206">
+<stop offset=".003" stop-color="#e44857"></stop>
+<stop offset=".469" stop-color="#c711e1"></stop>
+<stop offset="1" stop-color="#7f52ff"></stop>
+</lineargradient>
+</defs>
+<path d="M112.484 112.484H15.516V15.516h96.968L64 64Zm0 0" fill="url(#kt-a)"></path>
+</svg>
